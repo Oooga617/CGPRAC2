@@ -29,7 +29,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Cubemap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 8900000, guid: 762f22ba43541df4e95e0e7126e8d96c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DiffuseTexture:
@@ -63,7 +63,7 @@ Material:
     - _TilingX: 2
     - _TilingY: 2
     m_Colors:
-    - _Color: {r: 0.8632306, g: 1, b: 0.745283, a: 0}
+    - _Color: {r: 0.541367, g: 0.6981132, b: 0.5923519, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &4086971048340648754
